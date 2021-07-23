@@ -13,7 +13,7 @@ public class DemoComparison {
     }
 
     public static boolean compare(byte a, byte b) {
-        System.out.println("这里是byte");
+        System.out.println("这里是byte ");
         return a == b;
     }
 
